@@ -1,6 +1,6 @@
 package com.liyong.demo.aware.config;
 
-import com.liyong.demo.aware.utils.Utils;
+import com.liyong.demo.common.utils.Utils;
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;

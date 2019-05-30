@@ -1,11 +1,11 @@
-package com.liyong.demo.aware.utils;
+package com.liyong.demo.common.utils;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
  * <p> author liyong  </p>
- * <p> date 2019-05-20 15:33 </p>
+ * <p> date 2019-05-20 16:12 </p>
  * <p> description  </p>
  **/
 public class Utils {

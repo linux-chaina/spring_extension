@@ -10,15 +10,8 @@
         <version>1.0.1.RELEASE</version>
     </parent>
 
-    <artifactId>aware_custom</artifactId>
+    <artifactId>common_custom</artifactId>
     <version>1.0.1.RELEASE</version>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.liyong.demo</groupId>
-            <artifactId>common_custom</artifactId>
-            <version>1.0.1.RELEASE</version>
-        </dependency>
-    </dependencies>
     
 </project>

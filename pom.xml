@@ -10,8 +10,11 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>environ-custom</module>
+        <module>common_custom</module>
+        <module>environ_custom</module>
         <module>aware_custom</module>
+        <module>event_custom</module>
+        <module>inject_order</module>
     </modules>
 
     <parent>

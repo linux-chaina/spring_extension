@@ -10,7 +10,7 @@
         <version>1.0.1.RELEASE</version>
     </parent>
 
-    <artifactId>aware_custom</artifactId>
+    <artifactId>event_custom</artifactId>
     <version>1.0.1.RELEASE</version>
 
     <dependencies>
@@ -20,5 +20,5 @@
             <version>1.0.1.RELEASE</version>
         </dependency>
     </dependencies>
-    
+
 </project>
